@@ -1,5 +1,5 @@
 # Hello world 👋
-#### I'm Shridhar Ulli, A Frontend Engineer focused on creating Scalable Applications and Beautiful User Interfaces. Currently working at [@Paychex](https://www.paychex.com/).
+#### I'm Shridhar Ulli, A Frontend Engineer focused on creating Scalable Applications and Beautiful User Interfaces. Currently working at [Paychex](https://www.paychex.com/).
 <!--
 **ShridharUlli/ShridharUlli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
